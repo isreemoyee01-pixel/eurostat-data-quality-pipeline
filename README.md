@@ -76,7 +76,8 @@ Flags can sit on a number (`8.0 u`) or on a missing value (`: u`, `: m`).
 
 ### Chart
 
-*(Add a screenshot of the missing-percentage-by-year bar chart here.)*
+<img width="2014" height="600" alt="image" src="https://github.com/user-attachments/assets/4a683995-ed3a-4269-9a20-25bd889de5b0" />
+
 
 ## What I would improve
 
@@ -95,5 +96,4 @@ Databricks Free Edition (serverless), PySpark, Delta tables, Unity Catalog volum
 3. Open the four `gold_*` tables in the Catalog.
 
 ## Author
-
-Your name · [LinkedIn link]
+Sreemoyee Moitra · [https://www.linkedin.com/in/sreem24/]
